@@ -1,0 +1,21 @@
+{
+  "name": "sender",
+  "version": "1.0.0",
+  "description": "proyecto para practicar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "Eduardo-rico"
+  ],
+  "author": "Eduardo-rico",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
